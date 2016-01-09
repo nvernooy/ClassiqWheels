@@ -1,0 +1,66 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	
+}
+
+	
+body {
+	background: #f6f6ee url(../Images/background.png);
+	
+	}
+
+h1, h2 {color:darkred;}
+
+a{
+    color:darkblue;
+}	
+
+div.fancy_container {
+			margin: 5px 5px 5px 5px;
+			width: 450px auto;
+			display: block;
+			background: rgb(255, 255, 255); 
+			background: rgba(255, 255, 255,0.8);
+			border: 10px solid rgb(255, 255, 255); 
+			-moz-border-radius: 10px;
+			-khtml-border-radius: 10px;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			border-radius: 10px;
+			-moz-box-shadow: 0px 0px 5px #c6c6bf;
+			-khtml-box-shadow: 0px 0px 5px #c6c6bf;
+			-webkit-box-shadow: 0px 0px 5px #c6c6bf;
+			box-shadow: 0px 0px 10px #c6c6bf;
+			margin-left: 15px;
+			overflow: auto;
+			float:left;
+		}
+
+
+div.info
+{
+
+	margin: 5px 5px 5px 5px;
+			width: 1000px auto;
+			display: block;
+			background: rgb(255,255,255); /*rgba ie fix*/
+			background: rgba(255,255,255,0.75);
+			border: 10px solid rgb(255,255,255); /*rgba ie fix*/
+			-moz-border-radius: 10px;
+			-khtml-border-radius: 10px;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			border-radius: 10px;
+			-moz-box-shadow: 0px 0px 5px #c6c6bf;
+			-khtml-box-shadow: 0px 0px 5px #c6c6bf;
+			-webkit-box-shadow: 0px 0px 5px #c6c6bf;
+			box-shadow: 0px 0px 5px #c6c6bf;
+			margin-left: 15px;
+			overflow: auto;
+			float:left;
+}
+
+ 
